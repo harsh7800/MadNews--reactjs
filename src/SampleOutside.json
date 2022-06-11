@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 17964,
+  "articles": [
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Christiaan Hetzner",
+      "title": "Elon Musk’s regulatory woes mount as U.S. moves closer to recalling Tesla’s self-driving software",
+      "description": "Traffic safety officials escalate and widen probe to 830,000 Tesla cars as they discover patterns suggesting Tesla's Autopilot feature can encourage dangerous driving behavior.",
+      "url": "https://fortune.com/2022/06/10/elon-musk-tesla-nhtsa-investigation-traffic-safety-autonomous-fsd-fatal-probe/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1395371342-2.jpg?resize=1200,600",
+      "publishedAt": "2022-06-10T16:42:08Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Elizabeth Lopatto",
+      "title": "This Week in Elon: Texas gets involved in the Twitter deal for some reason",
+      "description": "Elon Musk has recently talked about his “changing” political alliances. But the Tesla and SpaceX chief has long given money to both Democrats and (mostly) Republicans, with only one real preference: getting what he wants.",
+      "url": "https://www.theverge.com/2022/6/10/23162383/elon-musk-twitter-texas-republican-donations",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/028-UD-tPWyiY9jMZobhobWuxL8=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23599350/This_Week_in_Elon_Social.png",
+      "publishedAt": "2022-06-10T16:36:12Z",
+      "content": "Democrats, Republicans, and Musks\r\nImage: Dami Lee\r\nSo, noted shitposter Elon Musk wants out of his Twitter deal, and hes gotten his lawyers to write a lil letter to Twitter about it. According to th… [+5949 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Andrew Krok",
+      "title": "NHTSA Upgrades Tesla Autopilot Investigation, One Step Closer to Recall",
+      "description": "This upgrade also expands the number of vehicles under investigation to about 830,000.",
+      "url": "https://www.cnet.com/roadshow/news/nhtsa-upgrades-tesla-autopilot-investigation-one-step-closer-to-recall/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3419ca13e204187f4436e832c6362478c8221e32/2021/08/27/61fcd336-03d9-4786-a266-7edf6600cd3c/2021-tesla-model-y-ogi-1.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-06-10T16:34:35Z",
+      "content": "Last September, the National Highway Traffic Safety Administration opened an investigation into Tesla's Autopilot driver-assist system, focused on crashes involving emergency vehicles when Autopilot … [+2367 chars]"
+    },
+    {
+      "source": { "id": null, "name": "AppleInsider" },
+      "author": "news@appleinsider.com (Mike Peterson)",
+      "title": "Tesla, BMW don't appear to be gearing up to join Apple's new CarPlay vision",
+      "description": "Apple gave a sneak peek of its new CarPlay vision at WWDC 2022 and announced some early partners, but there are a few notable holdouts who have yet to get involved.CarPlayDuring the developer conference keynote, Apple previewed a new generation of CarPlay tha…",
+      "url": "https://appleinsider.com/articles/22/06/10/tesla-bmw-dont-appear-to-be-gearing-up-to-join-apples-new-carplay-vision",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/48832-95395-CarPlay-Next-Gen-Header-xl.jpg",
+      "publishedAt": "2022-06-10T16:31:10Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+4526 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Philip van Doorn",
+      "title": "Top Ten: Weekend reads: New ideas for retirement planning and enjoying financial freedom",
+      "description": "Also, inflation, oil prices and energy stocks, Target and the rest of retail and how to protect your money from nursing homes.",
+      "url": "https://www.marketwatch.com/story/weekend-reads-new-ideas-for-retirement-planning-and-enjoying-financial-freedom-11654878553",
+      "urlToImage": "https://images.mktw.net/im-557732/social",
+      "publishedAt": "2022-06-10T16:29:00Z",
+      "content": "How to plan for and enjoy life after your career\r\nThe daily grind of work can take its toll, especially after decades. What if you had more flexibility and could work part time from home, while still… [+5061 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Seeking Alpha" },
+      "author": "Envision Research",
+      "title": "Microsoft: Earnings Guidance Contextualized With Fama-French Model",
+      "description": "Microsoft lowered its Q4 forecast ~2% from previous guidance. Combined with market turmoil, this triggered price movements. See more on MSFT stock here.",
+      "url": "https://seekingalpha.com/article/4517720-microsoft-earnings-guidance-contextualized-with-fama-french",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/873688208/image_873688208.jpg?io=getty-c-w750",
+      "publishedAt": "2022-06-10T16:27:16Z",
+      "content": "AnryMos/iStock Editorial via Getty Images\r\nThesis and the timeless power of value investing\r\n Microsoft Corporation (NASDAQ:MSFT) has been a frequent Q&amp;A topic in our Envision Early Retirement Ma… [+8292 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Science X staff",
+      "title": "Can we make graphite from coal? Researchers start by finding new carbon solid",
+      "description": "As the world's appetite for carbon-based materials like graphite increases, Ohio University researchers presented evidence this week for a new carbon solid they named \"amorphous graphite.\"",
+      "url": "https://phys.org/news/2022-06-graphite-coal-carbon-solid.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2022/can-they-make-graphite.jpg",
+      "publishedAt": "2022-06-10T16:27:03Z",
+      "content": "As the world's appetite for carbon-based materials like graphite increases, Ohio University researchers presented evidence this week for a new carbon solid they named \"amorphous graphite.\"\r\nPhysicist… [+5409 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Seeking Alpha" },
+      "author": "C Jessen",
+      "title": "Mercedes-Benz: The Way To Higher ROIC And A Higher Stock Price",
+      "description": "Mercedes wants to push its brand even further into the exclusive premium segment in order to differentiate itself. Learn more about DDAIF stock here.",
+      "url": "https://seekingalpha.com/article/4517719-mercedes-benz-the-way-to-higher-roic-and-a-higher-stock-price",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1348247165/image_1348247165.jpg?io=getty-c-w750",
+      "publishedAt": "2022-06-10T16:25:20Z",
+      "content": "Dzmitry Dzemidovich/iStock via Getty Images\r\nIntroduction\r\n I've been an investor in Mercedes-Benz (OTCPK:DDAIF) since picking up my first shares back in 2013. The stock has severely underperformed t… [+13786 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Www.bnr.nl" },
+      "author": "BNR",
+      "title": "AEX Factor",
+      "description": "De jacht op huizenbeleggers is in volle gang. Zo verstevigen gemeenten in rap tempo hun greep op de woningmarkt. Maar ook de rente stijgt keihard. Valt er nog wat te verdienen met geld in stenen?",
+      "url": "https://www.bnr.nl/podcast/aex-factor/10478400/meer-regels-en-hogere-rente-verdien-je-nog-geld-als-pandjeskoning",
+      "urlToImage": "https://bnr-external-prod.imgix.net/5f471ed6243048dd6703282817cdbf67ab9f5409.jpg?auto=format%252ccompress&cs=tinysrgb",
+      "publishedAt": "2022-06-10T16:22:36Z",
+      "content": "De jacht op huizenbeleggers is in volle gang. Zo verstevigen gemeenten in rap tempo hun greep op de woningmarkt. Maar ook de rente stijgt keihard. Valt er nog wat te verdienen met geld in stenen?\r\nAn… [+213 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Terra.com.br" },
+      "author": "Reuters",
+      "title": "CORREÇÃO-Produção da Tesla na China deve cair mais do que esperado por Musk, apontam memorandos",
+      "description": "A produção da Tesla em Xangai caminha para queda de mais de um terço neste trimestre em relação aos primeiros três meses do ano, uma vez que os lockdowns...",
+      "url": "https://www.terra.com.br/noticias/tecnologia/correcao-producao-da-tesla-na-china-deve-cair-mais-do-que-esperado-por-musk-apontam-memorandos,a8b0c4e52ed3e066ad0f98329e78c031xseyek26.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2022-06-10T16:22:07Z",
+      "content": "A produção da Tesla em Xangai caminha para queda de mais de um terço neste trimestre em relação aos primeiros três meses do ano, uma vez que os lockdowns causaram interrupções mais profunda do que o … [+2368 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Macitynet.it" },
+      "author": "Emiliano Contarino",
+      "title": "Tesla Autopilot, avanza l’indagine USA sugli incidenti",
+      "description": "Continua l'indagine sugli incidenti Tesla con Autopilot, che adesso è nella seconda e ultima fase prima di un eventuale richiamo\n- su macitynet.it Tesla Autopilot, avanza l’indagine USA sugli incidenti",
+      "url": "https://www.macitynet.it/tesla-autopilot-indagine-usa-incidenti/",
+      "urlToImage": "https://www.macitynet.it/wp-content/uploads/2022/06/tesla-auto-elettrica-1.jpg",
+      "publishedAt": "2022-06-10T16:19:03Z",
+      "content": "L’indagine sul Tesla Autopilot da parte del governo federale USA sta entrando in una nuova fase, dopo aver vagliato una dozzina di incidenti di veicoli Tesla che utilizzavano il pilota automatico e c… [+2097 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Numerama" },
+      "author": "Julien Cadot",
+      "title": "Vacances en voiture électrique : 6 ans après notre premier voyage en Tesla, tout a changé",
+      "description": "2016, 2022 : 6 ans séparent deux road trips en Tesla. On vous raconte tout ce qui a changé -- pour le meilleur et pour le pire. En 2016, nous étions l'un des premiers médias français à prendre Tesla au sérieux. La presse auto boudait ces voitures qui ne font …",
+      "url": "https://www.numerama.com/vroom/996314-vacances-en-voiture-electrique-6-ans-apres-notre-premier-voyage-en-tesla-tout-a-change.html",
+      "urlToImage": "https://www.numerama.com/wp-content/uploads/2022/06/tesla-model-3-performance-numerama-12.jpg",
+      "publishedAt": "2022-06-10T16:15:29Z",
+      "content": "2016, 2022 : 6 ans séparent deux road trips en Tesla. On vous raconte tout ce qui a changé — pour le meilleur et pour le pire.\r\nEn 2016, nous étions l’un des premiers médias français à prendre Tesla … [+18288 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Bikeportland.org" },
+      "author": "Jonathan Maus (Publisher/Editor)",
+      "title": "City of Portland unveils bicycle ambulance prototype",
+      "description": "The Portland Bureau of Emergency Management has long understood that when a disaster strikes, the ability to use cars and trucks could be extremely limited. Because of this reality, PBEM sees bicycles as a key ingredient in their disaster response plans. At a…",
+      "url": "https://bikeportland.org/2022/06/10/city-of-portland-unveils-bicycle-ambulance-prototype-356247",
+      "urlToImage": "https://bikeportland.org/wp-content/uploads/2022/06/JAM09093.jpg",
+      "publishedAt": "2022-06-10T16:15:28Z",
+      "content": "The city’s first attempt at a bike ambulance.(Photos: Jonathan Maus/BikePortland)\r\nThe Portland Bureau of Emergency Management has long understood that when a disaster strikes, the ability to use car… [+3938 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Motley Fool" },
+      "author": "newsfeedback@fool.com (Rich Smith)",
+      "title": "Why Tesla Stock Dropped Again Today",
+      "description": "The NHTSA is investigating Tesla's safety record -- again.",
+      "url": "https://www.fool.com/investing/2022/06/10/why-tesla-stock-dropped-again-today/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/684485/tesla-model-3-is-tesla.PNG",
+      "publishedAt": "2022-06-10T16:13:20Z",
+      "content": "What happened\r\nShares of electric car company Tesla(TSLA -3.84%) drove into a ditch on Friday, down 3.5% as of 11:20 a.m. ET. And yes, the whole stock market is in a funk today -- frightened by a gov… [+2279 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Freerepublic.com" },
+      "author": "Cal Matters",
+      "title": "Electric car mandate: California air board questions cost, practicality",
+      "description": "Members of California’s Air Resources Board today questioned the practicalities of their staff’s proposal to ban gas-powered vehicles, raising concerns over challenges in buying and charging electric cars.",
+      "url": "https://freerepublic.com/focus/f-news/4070079/posts",
+      "urlToImage": null,
+      "publishedAt": "2022-06-10T16:02:40Z",
+      "content": "Skip to comments.\r\nElectric car mandate: California air board questions cost, practicalityCal Matters ^\r\n | June 9, 2023\r\n | BY NADIA LOPEZ\r\nPosted on 06/10/2022 9:02:40 AM PDT by artichokegrower\r\nMe… [+1649 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Leganerd.com" },
+      "author": "Umberto Stentella",
+      "title": "Elon Musk: “presto sveleremo la terza parte del Tesla Master Plan”",
+      "description": "Elon Musk ha annunciato l’imminente uscita del nuovo Tesla Master Plan. La terza parte, dopo che la casa automobilistica ha già raggiunto pressoché tutti gli obiettivi che si era data nei due Master Plan precedenti. L’imprenditore avrebbe già rivelato i detta…",
+      "url": "https://leganerd.com/2022/06/10/elon-musk-presto-sveleremo-la-terza-parte-del-tesla-master-plan/",
+      "urlToImage": "https://leganerd.com/wp-content/uploads/2020/09/elon-musk.jpg",
+      "publishedAt": "2022-06-10T15:59:56Z",
+      "content": "Elon Musk ha annunciato l’imminente uscita del nuovo Tesla Master Plan. La terza parte, dopo che la casa automobilistica ha già raggiunto pressoché tutti gli obiettivi che si era data nei due Master … [+1183 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Seeking Alpha" },
+      "author": "Made Easy - Finance",
+      "title": "Understanding ON Semiconductor's Growth Sustainability Through Silicon Carbide",
+      "description": "Silicon Carbide showed a clear advantage over Silicon in numerous applications including inverters for electric vehicles. Learn more about ON stock here.",
+      "url": "https://seekingalpha.com/article/4517712-understanding-onsemis-growth-sustainability-through-silicon-carbide",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/492496339/image_492496339.jpg?io=getty-c-w750",
+      "publishedAt": "2022-06-10T15:46:42Z",
+      "content": "TomekD76/iStock via Getty Images\r\nSilicon Carbide is ON's MVP\r\n ON Semiconductor, or onsemi (NASDAQ:ON), heavily emphasizes that the company's strategic advantage is its Silicon Carbide-based product… [+10114 chars]"
+    },
+    {
+      "source": { "id": "handelsblatt", "name": "Handelsblatt" },
+      "author": "Stephan Scheuer",
+      "title": "Insight Innovation: Silizium in Batterien: Mercedes und Tesla setzen auf das Supermaterial",
+      "description": "Die Batteriezelle der Zukunft soll schneller laden und mehr Energie speichern. Silizium soll dabei helfen – und schon bald in Serie eingesetzt werden.",
+      "url": "https://www.handelsblatt.com/unternehmen/insight-innovation-elektroautos-tesla-und-mercedes-setzen-auf-batterien-mit-silizium/28307312.html",
+      "urlToImage": "https://www.handelsblatt.com/images/neues-batteriematerial/28398352/2-format2003.png",
+      "publishedAt": "2022-06-10T15:41:08Z",
+      "content": "Neues BatteriematerialDie Autohersteller setzen große Hoffnungen auf Silizium.\r\nSan Francisco Es zischt, brummt und surrt: Im Labor des Batteriespezialisten Sila Nanotechnologies reiht sich eine ries… [+1321 chars]"
+    },
+    {
+      "source": { "id": null, "name": "La Verdad Noticias" },
+      "author": "Erick Peraza",
+      "title": "Tesla asegura acuerdo multimillonario con Samsung para nuevas cámaras",
+      "description": "Samsung ha llegado a un acuerdo multimillonario para suministrar nuevas cámaras a Tesla.",
+      "url": "https://laverdadnoticias.com/tecnologia/Tesla-asegura-acuerdo-multimillonario-con-Samsung-para-nuevas-camaras-20220610-0050.html",
+      "urlToImage": "https://laverdadnoticias.com/__export/1654875521881/sites/laverdad/img/2022/06/10/tesla-samsung-camaras-trato.jpg_1449603163.jpg",
+      "publishedAt": "2022-06-10T15:39:54Z",
+      "content": "Automotriz de Elon Musk asegura acuerdo multimillonario con Samsung para nuevas cámaras\r\nSegún los informes, Tesla ha asegurado un acuerdo multimillonario con Samsung para obtener nuevas cámaras para… [+2469 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Xataka.com" },
+      "author": "Enrique Pérez",
+      "title": "Ya tenemos el primer coche que funciona con energía solar: Lightyear 0, con hasta 70 kilómetros de autonomía al día",
+      "description": "Tras seis años de desarrollo, en el que nos enseñaron conceptos y prototipos, la empresa holandesa Lightyear por fin ha enseñado la versión definitiva de su coche eléctrico solar. El primero de su estilo y con la capacidad de aguantar sin recargarse hasta sie…",
+      "url": "https://www.xataka.com/movilidad/tenemos-al-primer-coche-que-funciona-energia-solar-lightyear-0-70-kilometros-autonomia-al-dia",
+      "urlToImage": "https://i.blogs.es/6d45dd/lightyear-0/840_560.jpg",
+      "publishedAt": "2022-06-10T15:31:41Z",
+      "content": "Tras seis años de desarrollo, en el que nos enseñaron conceptos y prototipos, la empresa holandesa Lightyear por fin ha enseñado la versión definitiva de su coche eléctrico solar. El primero de su es… [+3047 chars]"
+    }
+  ]
+}
