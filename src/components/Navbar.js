@@ -1,13 +1,13 @@
-import React, { Component } from 'react'
+import React from 'react'
+import { Link } from 'react-router-dom'
 
-export default class Navbar extends Component {
-      render() {
+const Navbar = () => {
             return (
-              <nav className="navbar navbar-expand-lg bg-primary">
+              <nav className="navbar fixed-top navbar-expand-lg bg-primary">
                 <div className="container-fluid">
-                  <a className="navbar-brand" href="/">
+                  <Link className="navbar-brand" to="/">
                     MadNews
-                  </a>
+                  </Link>
                   <button
                     className="navbar-toggler"
                     type="button"
@@ -21,23 +21,21 @@ export default class Navbar extends Component {
                   </button>
                   <div
                     className="collapse navbar-collapse"
-                    id="navbarNavAltMarkup"
-                  >
+                    id="navbarNavAltMarkup">
                     <div className="navbar-nav">
-                      <a
-                        className="nav-link active"
-                        aria-current="page"
-                        href="/"
-                      >
-                        Home
-                      </a>
-                      <a className="nav-link" href="/">
-                        Features
-                      </a>
+                      <li className='nav-item'> <Link className="nav-link active"aria-current="page" to="/">Home</Link></li>
+                      <li className='nav-item'> <Link className="nav-link" to="/business">Business</Link></li>
+                      <li className='nav-item'> <Link className="nav-link" to="/entertainment">Entertainment</Link></li>
+                      <li className='nav-item'> <Link className="nav-link" to="/general">General</Link></li>
+                      <li className='nav-item'> <Link className="nav-link" to="/health">Health</Link></li>
+                      <li className='nav-item'> <Link className="nav-link" to="/science">Science</Link></li>
+                      <li className='nav-item'> <Link className="nav-link" to="/sports">Sports</Link></li>
+                      <li className='nav-item'> <Link className="nav-link" to="/technology">Technology</Link></li>
                     </div>
                   </div>
                 </div>
               </nav>
             );
   }
-}
+
+  export default Navbar

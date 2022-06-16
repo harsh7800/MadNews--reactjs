@@ -1,6 +1,10 @@
 .card{
       width: 20vw;
       .card-body{
-
+            span{
+                  position: absolute;
+                  left: "90%";
+                  zIndex: "1" 
+            }
       }
 }
